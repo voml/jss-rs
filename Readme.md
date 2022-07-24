@@ -195,3 +195,7 @@ property dimensions: object {
 
 - CLI Tools
 - Mock data generator based on jss
+
+## Stargazers
+
+[![Stargazers repo roster for @voml/jss](https://reporoster.com/stars/voml/jss)](https://github.com/voml/jss/stargazers)
