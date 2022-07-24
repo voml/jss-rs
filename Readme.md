@@ -198,4 +198,4 @@ property dimensions: object {
 
 ## Stargazers
 
-[![Stargazers repo roster for @voml/jss](https://reporoster.com/stars/voml/jss)](https://github.com/voml/jss/stargazers)
+[![Stargazers repo roster for @voml/jss](https://git-lister.onrender.com/api/stars/voml/jss)](https://github.com/voml/jss/stargazers)
